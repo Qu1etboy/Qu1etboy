@@ -12,8 +12,8 @@ Hi my name is Weerawong Vonggatunyu. I like to building stuff and trying new thi
 - CSS
 
 ## ✨ Get in touch
-- [https://www.facebook.com/Non.Weerawong/](Facebook)
-- [https://www.instagram.com/nonzagreanthai/?hl=th](Instragram)
+- [Facebook](https://www.facebook.com/Non.Weerawong/)
+- [Instragram](https://www.instagram.com/nonzagreanthai/?hl=th)
 
 <!--
 **Qu1etboy/Qu1etboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
