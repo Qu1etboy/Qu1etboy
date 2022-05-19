@@ -4,7 +4,7 @@ Hi my name is Weerawong Vonggatunyu. I like to building stuff and trying new thi
 - 🌱 I'm currently learning about Front-End, Back-End and more.
 - 🤔 I'm interested in Machine learning and Data Science.
 
-## My Skills
+## ⚡ My Skills
 - Python
 - JavaScript
 - C/C++
