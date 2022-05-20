@@ -1,6 +1,7 @@
 # Hi I'm Weerawong Welcome to my gihub profile!👋
-Hi my name is Weerawong Vonggatunyu.  I like to build stuff, solve problems and try new things.
-- 🔭 I'm currently studying in computer science at Kasetsart university.
+Hi my name is Weerawong Vonggatunyu. I'm a Computer Science Student at Kasetsart University base in Thailand. 
+I like to build stuff, solve problems and try new things.
+- 🔭 I'm currently studying in computer science at Kasetsart University.
 - 🌱 I'm currently learning about Front-End, Back-End and more.
 - 🤔 I'm interested in Machine learning and Data Science.
 
