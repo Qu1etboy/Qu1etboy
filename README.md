@@ -16,7 +16,7 @@ I like to build stuff, solve problems and try new things.
 - [Facebook](https://www.facebook.com/Non.Weerawong/)
 - [Instragram](https://www.instagram.com/nonzagreanthai/?hl=th)
 
-### *Make it fast. Make it right. Make it responsive.*
+### *"Make it fast. Make it right. Make it responsive."*
 <!--
 **Qu1etboy/Qu1etboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
