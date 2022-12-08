@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi I'm Weerawong Welcome to my gihub profile!👋
+# Hi I'm Weerawong Welcome to my github profile!👋
 
 ## 💫 About Me:
 Hi my name is Weerawong Vonggatunyu. I'm a Computer Science Student at Kasetsart University base in Thailand. 
