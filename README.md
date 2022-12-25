@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # Hi I'm Weerawong Welcome to my github profile!👋
-![](https://komarev.com/ghpvc/?username=qu1etboy)
+<!-- ![](https://komarev.com/ghpvc/?username=qu1etboy) -->
 ## 💫 About Me:
 Hi my name is Weerawong Vonggatunyu. I'm a Computer Science Student at Kasetsart University base in Thailand. 
 I like to build stuff, solve problems and try new things.
@@ -54,8 +54,8 @@ I like to build stuff, solve problems and try new things.
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=qu1etboy&theme=dark&hide_border=false">
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qu1etboy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
-</p>
+</p> -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
