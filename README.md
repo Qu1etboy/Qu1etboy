@@ -51,9 +51,9 @@ I like to build stuff, solve problems and try new things.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=qu1etboy&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=qu1etboy&theme=dark&hide_border=false">
-</p>
+</p> -->
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qu1etboy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 </p> -->
