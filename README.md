@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 
 # Hi I'm Weerawong Welcome to my github profile!👋
 <!-- ![](https://komarev.com/ghpvc/?username=qu1etboy) -->
+
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/weerawong)
+[![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/non.weerawong)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nonzagreanthai)
+
 ## 💫 About Me:
 Hi my name is Weerawong Vonggatunyu. I'm a Computer Science Student at Kasetsart University base in Thailand. 
 I like to build stuff, solve problems and try new things.
