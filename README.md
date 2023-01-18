@@ -51,11 +51,15 @@ I like to build stuff, solve problems and try new things.
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)  
-## 📊 GitHub Stats:
 
-<p align="center">
+## ⭐️ Quotes
+> “Legends aren’t defined by their successes. They are defined by how they bounce back from their failures”
+
+<!-- ## 📊 GitHub Stats: -->
+
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=qu1etboy&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
-</p>
+</p> -->
 <!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=qu1etboy&theme=dark&hide_border=false">
 </p> -->
