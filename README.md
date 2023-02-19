@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nonzagreanthai)
 
 ## 💫 About Me:
-Hi my name is Weerawong Vonggatunyu. I'm a Computer Science Student at Kasetsart University base in Thailand. 
+Hi my name is Weerawong Vonggatunyu, you can also call me Non(นนท์). I'm a Computer Science Student at Kasetsart University base in Thailand. 
 I like to build stuff, solve problems and try new things.
 - 🔭 I'm currently studying computer science at Kasetsart University.
 - 🌱 I'm currently learning about Front-End, Back-End, and more.
