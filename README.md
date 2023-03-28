@@ -16,18 +16,15 @@ Here are some ideas to get you started:
 # Hi I'm Weerawong Welcome to my github profile!👋
 <!-- ![](https://komarev.com/ghpvc/?username=qu1etboy) -->
 
+[![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://qu1etboy.dev/)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/weerawong)
 [![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/non.weerawong)
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nonzagreanthai)
 [![](https://img.shields.io/badge/CodinGame-F2BB13?style=for-the-badge&logo=codingame&logoColor=white)](https://www.codingame.com/profile/435c0a5ffba2efbaef9c9d8e1518ef061736544)
-[![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://qu1etboy.dev/)
 
 ## 💫 About Me:
 Hi my name is Weerawong Vonggatunyu, you can also call me Non(นนท์). I'm a Computer Science Student at Kasetsart University base in Thailand. 
 I like to build stuff, solve problems and try new things.
-- 🔭 I'm currently studying computer science at Kasetsart University.
-- 🌱 I'm currently learning about Front-End, Back-End, and more.
-- 🤔 I'm interested in Machine learning and Data Science.
 
 ## 💻 Tech Stack:
 ### Programming Language
