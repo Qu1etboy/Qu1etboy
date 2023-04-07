@@ -51,8 +51,9 @@ I like to build stuff, solve problems and try new things.
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 📊 Stats
-![](https://wakatime.com/share/@43319f53-3122-47b6-99d6-45e18debed2c/78693334-5939-404b-832c-88543ebced50.svg)
+[![wakatime](https://wakatime.com/badge/user/43319f53-3122-47b6-99d6-45e18debed2c.svg)](https://wakatime.com/@43319f53-3122-47b6-99d6-45e18debed2c)
 
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime/?username=qu1etboy&layout=compact&langs_count=16&hide_border=true&custom_title=Wakatime&bg_color=00000000&hide=PHP)](https://wakatime.com/@Qu1etboy)
 ## ⭐️ Quotes
 > “Legends aren’t defined by their successes. They are defined by how they bounce back from their failures”
 
