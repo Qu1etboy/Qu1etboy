@@ -50,6 +50,9 @@ I like to build stuff, solve problems and try new things.
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
+## 📊 Stats
+![](https://wakatime.com/share/@43319f53-3122-47b6-99d6-45e18debed2c/78693334-5939-404b-832c-88543ebced50.svg)
+
 ## ⭐️ Quotes
 > “Legends aren’t defined by their successes. They are defined by how they bounce back from their failures”
 
