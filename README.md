@@ -26,8 +26,10 @@ Here are some ideas to get you started:
 Hi my name is Weerawong Vonggatunyu, you can also call me Non(นนท์). I'm a Computer Science Student at Kasetsart University base in Thailand. 
 I like to build stuff, solve problems and try new things.
 
-## 💻 Tech Stack:
-### Programming Language
+## 💻 Tools I Used:
+[![My Skills](https://skillicons.dev/icons?i=ts,js,py,cpp,nextjs,react,nodejs,express,tailwind,html,css,vercel,docker,prisma,mysql,mongodb,vscode,git,github)](https://skillicons.dev)
+
+<!-- ### Programming Language
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -48,7 +50,7 @@ I like to build stuff, solve problems and try new things.
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) -->
 
 ## 📊 Stats
 [![wakatime](https://wakatime.com/badge/user/43319f53-3122-47b6-99d6-45e18debed2c.svg)](https://wakatime.com/@43319f53-3122-47b6-99d6-45e18debed2c)
