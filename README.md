@@ -23,8 +23,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/CodinGame-F2BB13?style=for-the-badge&logo=codingame&logoColor=white)](https://www.codingame.com/profile/435c0a5ffba2efbaef9c9d8e1518ef061736544)
 
 ## 💫 About Me:
-Hi my name is Weerawong Vonggatunyu, you can also call me Non(นนท์). I'm a Computer Science Student at Kasetsart University base in Thailand. 
-I like to build stuff, solve problems and try new things.
+He is a third-year student in Computer Science. His passion for computers and technology brought him to Kasetsart University. He has experience building Front-End for projects but can also do Back-End as well. He is a learner who seeks to find new things along the way and improve his knowledge from a mistake he made.
 
 ## 💻 Tools I Used:
 [![My Skills](https://skillicons.dev/icons?i=ts,js,py,cpp,nextjs,react,nodejs,express,tailwind,html,css,vercel,docker,prisma,mysql,mongodb,vscode,git,github)](https://skillicons.dev)
