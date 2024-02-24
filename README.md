@@ -58,6 +58,9 @@ He is a third-year student in Computer Science. His passion for computers and te
 ## ⭐️ Quotes
 > “Legends aren’t defined by their successes. They are defined by how they bounce back from their failures”
 
+## 🎵
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nonzagreanthai&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 <!-- ## 📊 GitHub Stats: -->
 
 <!-- <p align="center">
