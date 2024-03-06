@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi I'm Weerawong Welcome to my github profile!👋
+# Hi I'm Weerawong, Welcome to my GitHub profile!👋
 <!-- ![](https://komarev.com/ghpvc/?username=qu1etboy) -->
 
 [![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://qu1etboy.dev/)
@@ -23,10 +23,16 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/CodinGame-F2BB13?style=for-the-badge&logo=codingame&logoColor=white)](https://www.codingame.com/profile/435c0a5ffba2efbaef9c9d8e1518ef061736544)
 
 ## 💫 About Me:
-He is a third-year student in Computer Science. His passion for computers and technology brought him to Kasetsart University. He has experience building Front-End for projects but can also do Back-End as well. He is a learner who seeks to find new things along the way and improve his knowledge from a mistake he made.
+I am a third-year student in Computer Science. My passion for computers and technology brought me to the Department of Computer Science at Kasetsart University. I have experience implementing codes for both frontend and backend. I am a quick learner eager to expand my technical horizons and improve my knowledge.
 
-## 💻 Tools I Used:
-[![My Skills](https://skillicons.dev/icons?i=ts,js,py,cpp,nextjs,react,nodejs,express,tailwind,html,css,vercel,docker,prisma,mysql,mongodb,vscode,git,github)](https://skillicons.dev)
+## 💻 Tech Stack:
+<!-- [![My Skills](https://skillicons.dev/icons?i=ts,js,py,cpp,nextjs,react,nodejs,express,tailwind,html,css,vercel,docker,prisma,mysql,mongodb,vscode,git,github)](https://skillicons.dev)
+-->
+- **Programming Language**: TypeScript, Java, JavaScript, Python, C, C++, SQL
+- **Frameworks and Libraries**: Next.js, React, Node.js, Express, Spring, Spring Boot, Prisma, TailwindCSS, GraphQL
+- **Databases**: MySQL, Redis, MongoDB
+- **Tools**: Git, Docker, RabbitMQ, Kong
+- **Cloud and DevOps**: Vercel, Firebase, GitHub Actions
 
 ## 🔧 Projects
 
@@ -51,6 +57,7 @@ He is a third-year student in Computer Science. His passion for computers and te
 [![wakatime](https://wakatime.com/badge/user/43319f53-3122-47b6-99d6-45e18debed2c.svg)](https://wakatime.com/@43319f53-3122-47b6-99d6-45e18debed2c)
 
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime/?username=qu1etboy&layout=compact&langs_count=16&hide_border=true&custom_title=Wakatime&bg_color=00000000&hide=PHP)](https://wakatime.com/@Qu1etboy)
+
 ## ⭐️ Quotes
 > “Legends aren’t defined by their successes. They are defined by how they bounce back from their failures”
 
