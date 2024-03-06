@@ -28,28 +28,24 @@ He is a third-year student in Computer Science. His passion for computers and te
 ## 💻 Tools I Used:
 [![My Skills](https://skillicons.dev/icons?i=ts,js,py,cpp,nextjs,react,nodejs,express,tailwind,html,css,vercel,docker,prisma,mysql,mongodb,vscode,git,github)](https://skillicons.dev)
 
-<!-- ### Programming Language
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+## 🔧 Projects
 
-### Frameworks
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Database
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) -->
+- [KU Wongnai](https://github.com/KU-Wongnai/ku-wongnai) - Website for finding foods and popular restaurants inside Kasetsart University. Microservices built with Next.js, Spring Boot, Laravel, Node.js, Firebase, Kong, and RabbitMQ.
+- [Virtual Park In Market](https://github.com/Qu1etboy/virtual-parkin-market) - An online e-commerce platform for The Park In Market. Built with Next.js.
+- [Beam](https://github.com/Qu1etboy/beam) - An event management system. Built with Laravel
+- [Tech Camp #1 Showcase](https://github.com/ku-t3ch/TechCamp) - Website showcasing participant’s projects from Tech Camp #1. Built with Astro.
+- [Ratchagitja.md](https://github.com/narze/ratchagitja.md) - Contributed to help extract text from pdf to markdown file.
+- [Kin Rai Dee](https://github.com/Qu1etboy/kin-rai-dee) - A line chatbot to help you choose what food you want to eat. Built with TypeScript, LineBotSDK, Firebase Cloud Functions.
+- [Quick Chat](https://github.com/Qu1etboy/quick-chat) - Easily chat with your friends. Built with Next.js and Node.js
+- [Regex to NFA](https://github.com/Qu1etboy/regex-to-nfa) - Convert regular expression to NFA. Built with Flask and Next.js
+- [Bangkok Air Quality Map](https://github.com/Qu1etboy/bangkok-air-quality-map) - Shows the air quality on a map in Bangkok. Built with Next.js and Leaflet.
+- [qu1etboy.dev](https://github.com/Qu1etboy/portfolio) - My portfolio built with Astro
+- [resume.edit](https://github.com/Qu1etboy/resume-edit) - The resume maker.
+- [PM2.5 Tracker](https://github.com/Qu1etboy/pm2.5-tracker) - Know how much PM 2.5 is. In your area.
+- [KU Fondue](https://github.com/Qu1etboy/KU-Fondue) - A demo Java desktop application for submitting a complaint about Kasetsart University.
+- [Anime Girl to Email](https://github.com/Qu1etboy/anime-girl-to-email) - Sent anime girl picture to your email.
+- [Math Solver Discord Bot](https://github.com/Qu1etboy/math-solver-discord-bot) - A discord bot that can solve your math problems built with discord.js.
+- [React Markdown Editor](https://github.com/Qu1etboy/react-markdown-editor) - A simple markdown editor built with React.js.
 
 ## 📊 Stats
 [![wakatime](https://wakatime.com/badge/user/43319f53-3122-47b6-99d6-45e18debed2c.svg)](https://wakatime.com/@43319f53-3122-47b6-99d6-45e18debed2c)
