@@ -1,19 +1,4 @@
-<!--
-**Qu1etboy/Qu1etboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Hi I'm Weerawong, Welcome to my GitHub profile!👋
+## 👋👋 Hi!
 <!-- ![](https://komarev.com/ghpvc/?username=qu1etboy) -->
 
 [![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://qu1etboy.dev/)
@@ -22,8 +7,8 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nonzagreanthai)
 [![](https://img.shields.io/badge/CodinGame-F2BB13?style=for-the-badge&logo=codingame&logoColor=white)](https://www.codingame.com/profile/435c0a5ffba2efbaef9c9d8e1518ef061736544)
 
-## 💫 About Me:
-I am a third-year student in Computer Science. My passion for computers and technology brought me to the Department of Computer Science at Kasetsart University. I have experience implementing codes for both frontend and backend. I am a quick learner eager to expand my technical horizons and improve my knowledge.
+<!-- ## 💫 About Me: -->
+I'm Weerawong Vonggatunyu (Non) a third-year student in Computer Science. My passion for computers and technology brought me to the Department of Computer Science at Kasetsart University. I have experience implementing codes for both frontend and backend. I am a quick learner eager to expand my technical horizons and improve my knowledge.
 
 ## 💻 Tech Stack:
 <!-- [![My Skills](https://skillicons.dev/icons?i=ts,js,py,cpp,nextjs,react,nodejs,express,tailwind,html,css,vercel,docker,prisma,mysql,mongodb,vscode,git,github)](https://skillicons.dev)
