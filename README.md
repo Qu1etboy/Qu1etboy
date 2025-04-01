@@ -21,6 +21,7 @@ I'm Weerawong Vonggatunyu (Non) a third-year student in Computer Science. My pas
 
 ## 🔧 Projects
 
+- [KU Connect](https://github.com/ku-connect) - The social connection platform for KU students
 - [KU Wongnai](https://github.com/KU-Wongnai/ku-wongnai) - Website for finding foods and popular restaurants inside Kasetsart University. Microservices built with Next.js, Spring Boot, Laravel, Node.js, Firebase, Kong, and RabbitMQ.
 - [Virtual Park In Market](https://github.com/Qu1etboy/virtual-parkin-market) - An online e-commerce platform for The Park In Market. Built with Next.js.
 - [Beam](https://github.com/Qu1etboy/beam) - An event management system. Built with Laravel
